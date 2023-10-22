@@ -1,8 +1,8 @@
 
-=== Wed Oct  4 02:58:25 2023
+=== Wed Oct  4 22:37:46 2023
 
 Packages were changed.
-Update Mode: mergeDefaultDependencies
+Update Mode: resetToDefaultDependencies
 
 The following packages were added:
   com.unity.modules.ai@1.0.0
@@ -36,7 +36,3 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-The following packages were updated:
-  com.unity.collab-proxy from version 1.13.5 to 2.0.4
-  com.unity.timeline from version 1.6.2 to 1.7.4
-  com.unity.visualscripting from version 1.7.6 to 1.8.0
